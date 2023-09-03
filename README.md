@@ -6,7 +6,7 @@ I don't have an actual about me here because that's cringe.
 I know English, German, and- sorry, programming languages you meant?
 * Python
 * JavaScript
-* HTML/CSS <br/>
+* HTML/CSS <br/><br/>
 I also know markdown which is extremely hard to learn.
 ## 💻 | Other
 I don't really know.
