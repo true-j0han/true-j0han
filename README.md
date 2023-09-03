@@ -10,7 +10,7 @@ I know English, German, and- sorry, programming languages you meant?
 ## 💻 | Other
 I don't really know.
 ### 📁 Projects
-Projects I've posted here on GitHub.
+A couple of the projects I've posted here on GitHub.
 - Discord Nuke Bot — [J0HANs NUKER](<>)
 - Discord Selfbot — [J0HANs SELFBOT](<>)
 - Discord Raidkit — [DELTΔ](<>) <br/>
