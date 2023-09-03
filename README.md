@@ -11,6 +11,6 @@ I know English, German, and- sorry, programming languages you meant?
 I don't really know.
 ### Projects
 A couple of the projects I've posted here on GitHub.
-- Discord Nuke Bot — [J0HANs NUKER](<>)
+- Discord Nuke Bot — [J0HANs NUKER](<https://github.com/true-j0han/JOHANs-NUKER>)
 - Discord Selfbot — [J0HANs SELFBOT](<>)
 - Discord Raidkit — [DELTΔ](<>) <br/>
