@@ -6,8 +6,7 @@ I don't have an actual about me here because that's cringe.
 I know English, German, and- sorry, programming languages you meant?
 * Python
 * JavaScript
-* HTML/CSS <br/><br/>
-I also know markdown which is extremely hard to learn.
+* HTML/CSS
 ## 💻 | Other
 I don't really know.
 ### 📁 Projects
@@ -15,4 +14,3 @@ Projects I've posted here on GitHub.
 - Discord Nuke Bot — [J0HANs NUKER](<>)
 - Discord Selfbot — [J0HANs SELFBOT](<>)
 - Discord Raidkit — [DELTΔ](<>) <br/>
-I have some other repositories as well, but these are my main ones.
